@@ -1,0 +1,20 @@
+clone
+pull
+push
+commit
+add
+rm
+log
+branch
+merge
+heads
+rebase
+serve?
+git diff --cached
+backout?
+strip?
+untrack
+not staged 
+git diff
+-a option
+git amend
