@@ -18,3 +18,4 @@ not staged
 git diff
 -a option
 git amend
+issue1 fixed
