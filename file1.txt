@@ -24,3 +24,5 @@ anther git merge
 difftool
 opendiff
 mergetool?
+diffmerge
+difftooltest
