@@ -21,3 +21,4 @@ git amend
 issue1 fixed
 git merge
 anther git merge
+difftool
